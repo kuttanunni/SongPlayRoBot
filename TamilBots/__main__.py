@@ -11,7 +11,7 @@ from TamilBots.sql.chat_sql import add_chat_to_db
 start_text = """
 👋 𝗛𝗲𝗹𝗹𝗼 [{}](tg://user?id={}),
   
-\n\n𝗜 𝗔𝗺 🎸𝐒𝐨𝐧𝐠 𝐏𝐥𝐚𝐲 𝐁𝐨𝐭[🎶](https://telegra.ph/file/8d5b21152e8efcc1b5056.jpg)
+\n\n𝗜 𝗔𝗺 𝐒𝐨𝐧𝐠 𝐏𝐥𝐚𝐲 𝐁𝐨𝐭[🎶](https://telegra.ph/file/8d5b21152e8efcc1b5056.jpg)
 
 𝑇ℎ𝑖𝑠 𝑏𝑜𝑡 𝑖𝑠 𝑚𝑎𝑑𝑒𝑑 𝑏𝑦:- @Adhi0420
 
